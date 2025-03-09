@@ -1,7 +1,4 @@
-﻿# NewRepo
-
-Este proyecto es un programa en C# que interactúa con el usuario para pedir su nombre y calcular su edad aproximada.
-
+﻿
 ## Reto
 
 Tu reto es modificar el código para que:
@@ -12,12 +9,6 @@ Tu reto es modificar el código para que:
 
 En el próximo video, exploraremos variables y tipos de datos para resolver este reto. 
 ¡Suscríbete y activa la campanita! 🔔
-
-## Requisitos
-
-- Visual Studio 2022
-- .NET 9
-- C# 13.0
 
 ## Instrucciones
 
